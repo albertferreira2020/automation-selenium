@@ -1,4 +1,4 @@
-# automation-selenium
+# A simple app for automatic test using Selenium
 Simple app for create automatic test using selenium webdriver for node.js
 ```javascript
 
